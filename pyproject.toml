@@ -1,0 +1,14 @@
+[project]
+name = "imageconcat"
+description = "concatenate all images in floders, concatenate caption txt files for trainning loras."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/BigWhiteFly/ComfyUI-ImageConcat"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-ImageConcat"
+Icon = ""
