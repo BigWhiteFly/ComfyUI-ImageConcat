@@ -1,10 +1,10 @@
-# ComfyUI Node: Base64 To Image
+# ComfyUI Node: Image Concatenate and caption file concatenate
 Concatenate images in two folders, while concatenate its caption txt files. This is for trainning loras.
 The image folders need to contain image and caption txt files.
+1.the folder path can be relative and absolute path.
+2.the prompt_fix and prompt_subfix params be written to every caption txt file.
 for example:
-![1](https://github.com/user-attachments/assets/668bafa2-16a3-4341-b612-86aeffc01f32)
-![image_00002_](https://github.com/user-attachments/assets/d3855640-5bbb-4422-ad03-03debf813e02)
-![1_image_00002_](https://github.com/user-attachments/assets/ba6bcc95-7d6d-46a9-98ae-bb16707ab183)
+![ComfyUI_temp_sdzlv_00001_](https://github.com/user-attachments/assets/53663ad8-094f-482b-8a86-a2fe78b4fcea)
+![ComfyUI_temp_sdzlv_00004_](https://github.com/user-attachments/assets/83aa013b-fd16-4181-bb38-0bedd0af4ee2)
+![ComfyUI_temp_sdzlv_00003_](https://github.com/user-attachments/assets/12c969eb-599f-47e1-9ea6-54e2ab26f4a2)
 
-the folder path can be relative and absolute path.
-the prompt_fix and prompt_subfix params be written to every caption txt files.
